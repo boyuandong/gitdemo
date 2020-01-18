@@ -1,6 +1,6 @@
 “#gitdemo”
 
-Awesome cat:
+Dope cat:
 
 
-![awesome cat](./kitty-cat-kitten-pet-45201.jpeg)
+![Dope cat](./kitty-cat-kitten-pet-45201.jpeg)
